@@ -1,6 +1,7 @@
 # Python for Data Science <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32"> </picture>
 
-> [!TIP] Link to Previous Article  
+> [!TIP]  
+> Link to Previous Article  
 > 🡸 [Data Types in Python](/Python/Articles/3_data_types.md) 💊
 
 ## Python is a Dynamically Typed Language ⚡
