@@ -23,5 +23,6 @@ Python is a *high-level*, *interpreted* programming language known for its simpl
 - **"Start simple, then scale."**: Python's simplicity makes it perfect for beginners, but it also scales well for complex data science tasks.
 - **"Experimentation is key."**: Python's interactive nature (especially with tools like Jupyter Notebooks) encourages experimentation and rapid prototyping.
 
-> [!TIP] Link to Next Article
+> [!TIP]  
+> Link to Next Article  
 > 🡺 [ Printing in Python](/Python/Articles/2_how_to_print_in_python.md) 🖨️

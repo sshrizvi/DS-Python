@@ -1,6 +1,7 @@
 # Python for Data Science <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32"> </picture>
 
-> [!TIP] Link to Previous Article
+> [!TIP]  
+> Link to Previous Article  
 > 🡸 [ Printing in Python](/Python/Articles/2_how_to_print_in_python.md) 🖨️
 
 
@@ -74,5 +75,6 @@ Understanding Python's data types and their characteristics is essential for eff
 
 Each type has unique behaviors and edge cases, so experimenting with them will help solidify your understanding. 😊
 
-> [!TIP] Link to Next Article
->  🡺 [Python is a Dynamically Typed Language](/Python/Articles/4_dynamic_typing.md) ⚡
+> [!TIP]  
+> Link to Next Article  
+> 🡺 [Python is a Dynamically Typed Language](/Python/Articles/4_dynamic_typing.md) ⚡

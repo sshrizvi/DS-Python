@@ -1,6 +1,7 @@
 # Python for Data Science <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32"> </picture>
 
-> [!TIP] Link to Previous Article
+> [!TIP]  
+> Link to Previous Article  
 > 🡸 [What is Python ?](/Python/Articles/1_what_is_python.md)
 
 
@@ -62,5 +63,6 @@ The `print()` function has several parameters that allow you to customize its be
     ```
 This is how printing in Python works. 😊
 
-> [!TIP] Link to Next Article
->  🡺 [Data Types in Python](/Python/Articles/3_data_types.md) 💊
+> [!TIP]  
+> Link to Next Article  
+> 🡺 [Data Types in Python](/Python/Articles/3_data_types.md) 💊

@@ -104,5 +104,6 @@ In programming languages, "*typing*" refers to *how a language handles and enfor
 
 Understanding Python's dynamic typing nature helps in writing more flexible and maintainable code. 😊
 
-> [!TIP] Link to Next Article
+> [!TIP]  
+> Link to Next Article  
 > 🡺 [Comments in Python](/Python/Articles/5_comments.md) 💬
