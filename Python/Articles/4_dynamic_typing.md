@@ -1,10 +1,9 @@
-# Python for Data Science 🐍
+# Python for Data Science <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32"> </picture>
 
 > [!TIP] Link to Previous Article
 > 🡸 [Data Types in Python](/Python/Articles/3_data_types.md) 💊
 
 ## Python is a Dynamically Typed Language ⚡
-
 In programming languages, "*typing*" refers to *how a language handles and enforces the data types of variables*. When we say that Python is a dynamically typed language, it means several things:
 
 1. **Variable Types are Determined at Runtime**:

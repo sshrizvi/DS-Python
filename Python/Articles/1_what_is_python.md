@@ -1,4 +1,4 @@
-# Python for Data Science 🐍
+# Python for Data Science <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32"> </picture>
 
 ## What is Python ? 
 Python is a *high-level*, *interpreted* programming language known for its simplicity and readability. Created by *Guido van Rossum* and first released in *1991*, Python emphasizes code readability and allows developers to write clear and logical code for small and large-scale projects.
