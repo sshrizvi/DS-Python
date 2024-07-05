@@ -109,6 +109,6 @@ Comments are an essential part of programming, allowing you to include explanati
 
 Comments are a powerful tool for making your code more understandable and maintainable. Use them wisely to communicate the intent and logic behind your code. 😊
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Taking Inputs in Python](/Python/Articles/6_taking_inputs_in_python.md) 🖥️
