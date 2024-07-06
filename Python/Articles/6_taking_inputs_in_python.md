@@ -103,6 +103,6 @@ In Python, the primary way to take user input is through the `input()` function.
 - Handle edge cases like empty input and invalid input using appropriate checks and exception handling.
 - Other methods for taking input include reading from files, command line arguments, and using the `getpass` module for secure inputs.
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Keywords in Python](/Python/Articles/7_keywords.md) 🔑
