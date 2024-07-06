@@ -107,6 +107,6 @@ Here's a comprehensive list of all the keywords used in Python, along with a bri
 
 Understanding these keywords and their usage is crucial for mastering Python programming. If you have any questions or need more examples, feel free to ask! 😊
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Variables in Python](/Python/Articles/8_variables.md) 📝
