@@ -142,6 +142,6 @@ In Python, a variable is a name that refers to a value. Variables are essential 
 
 By following these practices, you can write clean, readable, and maintainable Python code. 😊
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Literals in Python](/Python/Articles/9_literals.md) 📜
