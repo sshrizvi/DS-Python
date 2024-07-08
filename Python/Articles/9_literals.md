@@ -140,6 +140,9 @@ Literals in Python are raw data that represent fixed values. They are the most f
 
 Understanding literals and how to use them effectively is crucial for writing clear and efficient Python code. 😊
 
+> [!IMPORTANT]  
+> If you have studied all the nine articles, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 1](/Python/Tasks/task_1.ipynb)
+
 <!-- > [!TIP]  
 > Link to Next Article  
 > 🡺 []() -->
