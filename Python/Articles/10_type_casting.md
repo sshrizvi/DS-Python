@@ -110,6 +110,6 @@ Understanding type casting is crucial for writing robust and error-free Python c
 > [!IMPORTANT]  
 > If you have studied all the nine articles, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 1](/Python/Tasks/task_1.ipynb)
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Operators in Python](/Python/Articles/11_operators.md) 🔧
