@@ -217,6 +217,6 @@ print("grape" not in fruits) # True
 
 Understanding these operators and their nuances is crucial for effective programming in Python. 😊
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Conditional Statements in Python](/Python/Articles/12_conditionals.md) 🛤️
