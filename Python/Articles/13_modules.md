@@ -156,6 +156,6 @@ print(choices)
 
 Understanding how to use modules effectively is crucial for efficient programming in Python. 😊
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Loops in Python](/Python/Articles/14_loops.md) 🔄
