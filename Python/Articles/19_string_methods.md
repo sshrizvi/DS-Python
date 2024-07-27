@@ -102,7 +102,11 @@ print(s.split(","))  # Output: ['a', 'b', 'c']
 2. **Unicode Support**: Python strings support Unicode, which means they can handle a wide range of characters from different languages.
 3. **Efficiency**: String methods are optimized for performance, making them efficient for text processing tasks.
 
-These methods provide a powerful toolkit for manipulating and analyzing strings in Python. If you have any questions or need further clarification on any of the methods, feel free to ask! 😊
+These methods provide a powerful toolkit for manipulating and analyzing strings in Python. 😊
+
+> [!WARNING]
+> If you have learned about Strings, try to solve the some problems.  
+> Here is the link to the problems [Problems on Strings](/Notebooks/1_problems_on_strings.ipynb)
 
 <!-- > [!TIP]  
 > Link to Next Article  
