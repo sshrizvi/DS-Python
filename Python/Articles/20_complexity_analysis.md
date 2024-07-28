@@ -82,6 +82,6 @@ Complexity analysis helps in determining the efficiency of an algorithm, mainly 
 
 Understanding complexity analysis allows developers to choose the most efficient algorithms for their specific problems, ensuring better performance and scalability. 😊
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Lists in Python](/Python/Articles/21_lists.md) 📝
