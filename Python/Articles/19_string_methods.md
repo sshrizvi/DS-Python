@@ -108,6 +108,9 @@ These methods provide a powerful toolkit for manipulating and analyzing strings 
 > If you have learned about Strings, try to solve the some problems.  
 > Here is the link to the problems [Problems on Strings](/Notebooks/1_problems_on_strings.ipynb)
 
+> [!IMPORTANT]  
+> If you have studied Article 16-19, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 3](/Python/Tasks/task_3.ipynb)
+
 > [!TIP]  
 > Link to Next Article  
 > 🡺 [Complexity Analysis in Programming](/Python/Articles/20_complexity_analysis.md) 📊
