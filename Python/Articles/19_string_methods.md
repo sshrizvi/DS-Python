@@ -52,9 +52,7 @@ Python provides a rich set of string methods for various operations. Here's a co
 | `strip([chars])`            | `str.strip(chars)`                     | Removes leading and trailing characters specified in `chars`.                                     | `"  hello  ".strip()` → `'hello'`                       |
 | `swapcase()`                | `str.swapcase()`                       | Swaps the case of all characters in the string.                                                   | `"Hello".swapcase()` → `'hELLO'`                        |
 | `title()`                   | `str.title()`                          | Converts the string to title case.                                                                | `"hello world".title()` → `'Hello World'`               |
-| `translate(table)`         
-
- | `str.translate(table)`                 | Translates the string using the translation table returned by `maketrans()`.                      | `"hello".translate({"h": "H"})` → `'Hello'`             |
+| `translate(table)` | `str.translate(table)` | Translates the string using the translation table returned by `maketrans()`. | `"hello".translate({"h": "H"})` → `'Hello'` |
 | `upper()`                   | `str.upper()`                          | Converts the string to uppercase.                                                                 | `"hello".upper()` → `'HELLO'`                           |
 | `zfill(width)`              | `str.zfill(width)`                     | Pads the string with zeros on the left until it reaches the specified width.                      | `"42".zfill(5)` → `'00042'`                             |
 

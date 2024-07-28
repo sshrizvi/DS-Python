@@ -157,6 +157,10 @@ for i in range(1, 6):
 
 Understanding and using loop control statements effectively can greatly enhance the control and efficiency of your programs. If you have any questions or need further clarification, feel free to ask! 😊
 
+> [!IMPORTANT]  
+> If you have studied Article 11-15, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 2](/Python/Tasks/task_2.ipynb)
+
+
 > [!TIP]  
 > Link to Next Article  
 > 🡺 [Strings in Python](/Python/Articles/16_strings.md)📜
