@@ -100,6 +100,6 @@ Understanding and utilizing list comprehensions effectively can significantly en
 > [!IMPORTANT]  
 > If you have studied Article 21-24, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 4](/Python/Tasks/task_4.ipynb)
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Tuples in Python](/Python/Articles/25_tuples.md) 📚
