@@ -118,6 +118,11 @@ print(squares_dict)  # Output: {0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 
 Dictionary comprehensions are a powerful feature in Python, enabling developers to create and manipulate dictionaries with a clean and concise syntax. Understanding how to use dictionary comprehensions effectively can lead to more readable and efficient code. By practicing with tricky examples, you can master this feature and apply it to a wide range of programming scenarios.
 
+
+> [!IMPORTANT]  
+> If you have studied Article 25-33, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 5](/Python/Tasks/task_5.ipynb)
+
+
 <!-- > [!TIP]  
 > Link to Next Article  
 > 🡺 []() -->
