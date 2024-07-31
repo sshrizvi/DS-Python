@@ -123,6 +123,6 @@ Dictionary comprehensions are a powerful feature in Python, enabling developers 
 > If you have studied Article 25-33, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 5](/Python/Tasks/task_5.ipynb)
 
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Functions in Python](/Python/Articles/34_functions.md)
