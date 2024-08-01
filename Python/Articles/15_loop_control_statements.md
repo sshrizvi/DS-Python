@@ -160,6 +160,9 @@ Understanding and using loop control statements effectively can greatly enhance 
 > [!IMPORTANT]  
 > If you have studied Article 11-15, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 2](/Python/Tasks/task_2.ipynb)
 
+> [!IMPORTANT]  
+> Here are the interview questions for the topics you have studied yet.  
+> Link to Question - [Link](/Interview%20Questions/week_1.md)
 
 > [!TIP]  
 > Link to Next Article  
