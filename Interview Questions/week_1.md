@@ -1,6 +1,8 @@
-# <center>📚 **Interview Questions**</center>
+<div align = center>
+    <h1>📚 <b>Interview Questions</b></h1>
+</div>
 
-## **Week 01 :** ***Basic, If-Else, Loops, Operators, Strings***
+## **Week 01 :** *Basic, If-Else, Loops, Operators, Strings*
 
 <details>
 <summary>  ❓ <i><b>Question 1 : What is Python ? What are the benefits of Python ?</b></i> </summary>
