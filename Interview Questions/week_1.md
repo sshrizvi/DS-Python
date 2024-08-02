@@ -5,7 +5,7 @@
 ## **Week 01 :** *Basic, If-Else, Loops, Operators, Strings*
 
 <details>
-<summary>  ❓ <i><b>Question 1 : What is Python ? What are the benefits of Python ?</b></i> </summary>
+<summary>  ❓ <i>Question 1 : What is Python ? What are the benefits of Python ?</i> </summary>
 
 ***Answer :*** 
 ## What is Python?
@@ -65,7 +65,7 @@ Python's readability, productivity, extensive libraries, and community support m
 </details>
 
 <details>
-<summary>  ❓ <i><b>Question 2 : What is dynamically typed language ?</b></i> </summary>
+<summary>  ❓ <i>Question 2 : What is dynamically typed language ?</i> </summary>
 
 ***Answer :*** 
 ## Dynamically Typed Language
@@ -156,7 +156,7 @@ Here is an [article](https://www.educative.io/answers/statically-v-dynamically-v
 </details>
 
 <details>
-<summary>  ❓ <i><b>Question 3 : What is an Interpreted Language ?</b></i> </summary>
+<summary>  ❓ <i>Question 3 : What is an Interpreted Language ?</i> </summary>
 
 ***Answer :*** 
 ### What is an Interpreted Language?
@@ -206,7 +206,7 @@ These resources provide detailed explanations and comparisons to help understand
 
 
 <details>
-<summary>  ❓ <i><b>Question 4 : What is PEP8 and why is it important ?</b></i> </summary>
+<summary>  ❓ <i>Question 4 : What is PEP8 and why is it important ?</i> </summary>
 
 ***Answer :*** 
 PEP 8 is the **Python Enhancement Proposal** that provides guidelines and best practices on how to write Python code. It was written by Guido van Rossum and Barry Warsaw and is now maintained by the Python community.
@@ -255,7 +255,7 @@ For more detailed information on PEP 8 and its guidelines, you can refer to the 
 
 
 <details>
-<summary>  ❓ <i><b>Question 5 : What are the common built-in data types in Python ?</b></i> </summary>
+<summary>  ❓ <i>Question 5 : What are the common built-in data types in Python ?</i> </summary>
 
 ***Answer :*** 
 Python has several built-in data types that are fundamental to its programming model. Here are some of the most common ones:
@@ -302,7 +302,7 @@ These pages provide comprehensive details about each data type, including their 
 
 
 <details>
-<summary>  ❓ <i><b>Question 6 : What is operator precedence in Python ?</b></i> </summary>
+<summary>  ❓ <i>Question 6 : What is operator precedence in Python ?</i> </summary>
 
 ***Answer :*** 
 Operator precedence in Python determines the order in which operators are evaluated in expressions. Operators with higher precedence are evaluated before operators with lower precedence. If two operators have the same precedence, their associativity determines the order in which they are evaluated.
@@ -336,7 +336,7 @@ For a complete list and details, refer to the [Python operator precedence docume
 
 
 <details>
-<summary>  ❓ <i><b>Question 7 : Explain Ternary Operator in Python ?</b></i> </summary>
+<summary>  ❓ <i>Question 7 : Explain Ternary Operator in Python ?</i> </summary>
 
 ***Answer :*** 
 Actually, Python does have a ternary operator, but it is a bit different from the traditional ternary operator found in some other languages.
@@ -382,7 +382,7 @@ This page provides detailed explanations and examples of how conditional express
 
 
 <details>
-<summary>  ❓ <i><b>Question 8 : What does the <code>is</code> operator do ?</b></i> </summary>
+<summary>  ❓ <i>Question 8 : What does the <code>is</code> operator do ?</i> </summary>
 
 ***Answer :*** 
 The `is` operator in Python is used to check if two variables reference the same object in memory. It's not concerned with the values of the objects themselves but rather with whether the two variables point to the exact same object.
@@ -459,7 +459,7 @@ This section of the documentation explains the `is` and `is not` operators, incl
 
 
 <details>
-<summary>  ❓ <i><b>Question 9 : What are the disadvantages of Python ?</b></i> </summary>
+<summary>  ❓ <i>Question 9 : What are the disadvantages of Python ?</i> </summary>
 
 ***Answer :*** 
 While Python is a highly versatile and popular programming language, it does have some disadvantages and limitations that might impact its suitability for certain tasks or projects. Here are some of the common disadvantages:
@@ -508,7 +508,7 @@ Understanding these limitations can help in making informed decisions about when
 
 
 <details>
-<summary>  ❓ <i><b>Question 10 : How strings are stored in Python ?</b></i> </summary>
+<summary>  ❓ <i>Question 10 : How strings are stored in Python ?</i> </summary>
 
 ***Answer :*** 
 In Python, strings are stored as immutable sequences of Unicode characters. Here’s a detailed explanation of how strings are managed and stored:
@@ -563,7 +563,7 @@ Understanding these details can help you work more effectively with strings in P
 
 
 <details>
-<summary>  ❓ <i><b>Question 11 : What is Zen of Python ?</b></i> </summary>
+<summary>  ❓ <i>Question 11 : What is Zen of Python ?</i> </summary>
 
 ***Answer :*** 
 The **Zen of Python** is a collection of guiding principles for writing computer programs in Python. It was authored by Tim Peters and provides a concise summary of the philosophy and design principles that guide Python's development and usage. The Zen of Python is often appreciated for its emphasis on simplicity, readability, and explicitness.
@@ -647,7 +647,7 @@ These principles help guide Python developers in writing code that is clean, mai
 
 
 <details>
-<summary>  ❓ <i><b>Question 12 : What does <code>_</code> variable means in Python ?</b></i> </summary>
+<summary>  ❓ <i>Question 12 : What does <code>_</code> variable means in Python ?</i> </summary>
 
 ***Answer :*** 
 In Python, the underscore `_` is a versatile and context-dependent variable that can have different meanings depending on where and how it is used. Here are some of the common uses of the underscore:
@@ -727,7 +727,7 @@ In summary, `_` is a flexible tool in Python that serves various purposes depend
 
 
 <details>
-<summary>  ❓ <i><b>Question 13 : Differentiate module v/s packages v/s library.</b></i> </summary>
+<summary>  ❓ <i>Question 13 : Differentiate module v/s packages v/s library.</i> </summary>
 
 ***Answer :*** 
 In Python, **modules**, **packages**, and **libraries** are related but distinct concepts used for organizing and managing code. Here’s a breakdown of each term:
@@ -811,7 +811,7 @@ These resources cover the definitions, usage, and management of modules, package
 
 
 <details>
-<summary>  ❓ <i><b>Question 14 : Why 0.3 - 0.2 not equal to 0.1 in Python ?</b></i> </summary>
+<summary>  ❓ <i>Question 14 : Why 0.3 - 0.2 not equal to 0.1 in Python ?</i> </summary>
 
 ***Answer :*** 
 In Python, the expression `0.3 - 0.2` does not exactly equal `0.1` due to the way floating-point numbers are represented in computers. This issue arises from the limitations of floating-point arithmetic and how decimal numbers are approximated in binary.
@@ -863,7 +863,7 @@ Understanding these limitations helps in designing and debugging numerical calcu
 
 
 <details>
-<summary>  ❓ <i><b>Question 15 : What are Python Docstrings ?</b></i> </summary>
+<summary>  ❓ <i>Question 15 : What are Python Docstrings ?</i> </summary>
 
 ***Answer :*** 
 Python **docstrings** (documentation strings) are a way to document code in Python. They are string literals that appear right after the definition of a function, method, class, or module. Docstrings are used to describe what the function, method, class, or module does, and they can be accessed programmatically.
@@ -965,7 +965,7 @@ Docstrings are a valuable tool for documenting code and improving code readabili
 
 
 <!-- <details>
-<summary>  ❓ <i><b>Question X : </b></i> </summary>
+<summary>  ❓ <i>Question X : </i> </summary>
 
 ***Answer :*** 
 
