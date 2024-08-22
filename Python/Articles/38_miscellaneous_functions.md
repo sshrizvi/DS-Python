@@ -181,6 +181,9 @@ print(product)  # Output: 24
 
 Understanding and utilizing `lambda`, `map`, `filter`, and `reduce` functions can significantly enhance your efficiency as a data scientist. These functions support a more functional programming approach, allowing for concise and readable code. By mastering these tools, you can perform complex data manipulations with ease.
 
-<!-- > [!TIP]  
+> [!IMPORTANT]  
+> If you have studied Article 34-38, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 6](/Python/Tasks/task_6.ipynb)
+
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Object-Oriented Programming (OOP)](../../OOPs%20with%20Python/Articles/39_intro_to_oops.md)
