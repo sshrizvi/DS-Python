@@ -95,6 +95,6 @@ This article provides a comprehensive look at class diagrams, which are fundamen
 > [!IMPORTANT]  
 > If you have studied Article 39-45, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 7](/OOPs%20with%20Python/Tasks/task_7.ipynb)
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Accessing Attributes of a Class Using Objects](/OOPs%20with%20Python/Articles/46_accessing_attributes.md)
