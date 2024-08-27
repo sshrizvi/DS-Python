@@ -134,6 +134,6 @@ These concepts are crucial for understanding how Python handles class and instan
 > [!IMPORTANT]  
 > If you have studied Article 46-53, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 8](/OOPs%20with%20Python/Tasks/task_8.ipynb)
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Class Relationships](/OOPs%20with%20Python/Articles/54_class_relationships.md)
