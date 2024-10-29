@@ -77,6 +77,6 @@ Abstraction is incredibly useful for several reasons:
 
 Abstraction is a key principle in object-oriented programming that enables developers to manage complexity, promote modularity, and ensure reusability and maintainability of code. By using abstract classes and methods, Python allows programmers to define clear interfaces and enforce consistent behavior across related classes, simplifying both the design and maintenance of software systems.
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [What Are Files?](/File%20Handling/Articles/62_file_handling.md)
