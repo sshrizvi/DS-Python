@@ -128,6 +128,13 @@ When working with model parameters, experimental configurations, or cached data,
 
 By mastering both JSON and Pickle, you gain flexibility in data serialization options, each tailored to specific needs in your data science workflows.
 
+> [!IMPORTANT]  
+> Watch the video on Recursion as upcoming task contains questions on Rescursion.  
+> [Link to Recursion](https://www.youtube.com/watch?v=9bsK03SlmNM)
+
+> [!IMPORTANT]  
+> If you have studied Article 62-67, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 10](/File%20Handling/Tasks/task_10.ipynb)
+
 <!-- > [!TIP]  
 > Link to Next Article  
 > 🡺 []() -->
