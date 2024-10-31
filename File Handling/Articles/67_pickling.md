@@ -135,6 +135,6 @@ By mastering both JSON and Pickle, you gain flexibility in data serialization op
 > [!IMPORTANT]  
 > If you have studied Article 62-67, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 10](/File%20Handling/Tasks/task_10.ipynb)
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Understanding Errors in Python: Types, Causes, and Examples](/Exception%20Handling/Articles/68_errors_in_python.md)
