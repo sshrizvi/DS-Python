@@ -132,8 +132,8 @@ Custom exceptions in Python are powerful tools for providing clarity, specificit
 With careful planning and strategic use, custom exceptions improve both code readability and robustness, particularly when working with complex data workflows.
 
 
-<!-- > [!IMPORTANT]  
-> If you have studied Article 68-72, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 11](/Exception%20Handling/Tasks/task_10.ipynb) -->
+> [!IMPORTANT]  
+> If you have studied Article 68-72, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 11](/Exception%20Handling/Tasks/task_11.ipynb)
 
 <!-- > [!TIP]  
 > Link to Next Article  
