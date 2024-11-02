@@ -135,6 +135,6 @@ With careful planning and strategic use, custom exceptions improve both code rea
 > [!IMPORTANT]  
 > If you have studied Article 68-72, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 11](/Exception%20Handling/Tasks/task_11.ipynb)
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Namespaces in Python: A Comprehensive Guide for Intermediate Learners](/NameSpaces%20&%20Decorators/Articles/73_namespaces.md)
