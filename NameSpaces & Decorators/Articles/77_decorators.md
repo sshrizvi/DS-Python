@@ -2,7 +2,7 @@
 
 > [!TIP]  
 > Link to Previous Article  
-> 🡸 [Exploring the Built-in Namespace in Python](/NameSpaces%20&%20Decorators/Articles/75_builtins.md)
+> 🡸 [Understanding the Enclosing Namespace in Python](/NameSpaces%20&%20Decorators/Articles/76_enclosing.md)
 
 # A Comprehensive Guide to Decorators in Python
 
@@ -224,6 +224,6 @@ Decorators are an essential tool in Python that can help make your code more org
 
 Mastering decorators opens up new possibilities in data science workflows, from logging and caching to authentication and timing analysis. However, decorators can be challenging due to their layered function structure and closures. With practice and careful attention to details like argument handling and closure variables, you can use decorators effectively to improve your Python code.
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [A Deep Dive into Iteration, Iterators, and Iterables in Python](/NameSpaces%20&%20Decorators/Articles/78_iterators.md)
