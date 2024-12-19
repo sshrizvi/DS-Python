@@ -207,6 +207,6 @@ In the data science and machine learning domains, where data volume can be vast,
 > [!IMPORTANT]  
 > If you have studied Article 73-79, I would suggest you to perform some task so that you can check on your learning. Here is the link : [Task 12](/NameSpaces%20&%20Decorators/Tasks/task_12.ipynb)
 
-<!-- > [!TIP]  
+> [!TIP]  
 > Link to Next Article  
-> 🡺 []() -->
+> 🡺 [Numpy - An Introduction](/Numpy/Articles/80_numpy.md)
